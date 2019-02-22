@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.3:1", "", "Library", "EARoot/EA1/EA3/EA19.html", "3.png", "51", "0", "", "Logical diagram0","{156E61D1-9E9B-425c-9FFC-48E816469567}");
+tocTab[tocTab.length] = new Array("0.1.3:2", "", "Utils", "EARoot/EA1/EA3/EA22.html", "5.png", "E138", "0", "", "Class0","{4955882D-51D9-4710-8ED3-DEA9D59F22CD}");
+tocTab[tocTab.length] = new Array("0.1.3:3", "", "ConsoleColors", "EARoot/EA1/EA3/EA23.html", "5.png", "E137", "E138", "", "Class0","{ABB73B8C-7567-42a8-B828-AD95B22738FB}");
+tocTab[tocTab.length] = new Array("0.1.3:4", "", "ConsoleReader", "EARoot/EA1/EA3/EA24.html", "5.png", "E136", "E138", "", "Class0","{D10FD57D-32B0-45fc-8025-0919C1655DCA}");

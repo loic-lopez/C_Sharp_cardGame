@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "gameCore", "EARoot/EA2/EA1/EA32.html", "3.png", "57", "0", "", "Logical diagram0","{5F3E7D77-F828-41d5-A966-64E988933064}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "Board", "EARoot/EA2/EA1/EA35.html", "5.png", "E164", "0", "", "Class0","{0A274872-7DD2-421f-9D76-DB013B142B72}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "Player", "EARoot/EA2/EA1/EA38.html", "5.png", "E163", "0", "", "Class0","{7E699233-993C-4952-B250-1884FA85F44A}");
+tocTab[tocTab.length] = new Array("0.2.1.1", "1", "Cards", "EARoot/EA2/EA1/EA1/EA41.html", "4.png", "", "", "{DA67393E-4F01-4ce4-B44E-61A705D60A21}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2", "1", "Library", "EARoot/EA2/EA1/EA2/EA68.html", "4.png", "", "", "{05CA9582-8067-4876-8C13-97153D4BAA70}", "Package");

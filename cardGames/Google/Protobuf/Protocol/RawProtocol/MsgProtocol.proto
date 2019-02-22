@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+package Protobuf;
+
+option optimize_for = SPEED;
+option csharp_namespace = "Google.Protobuf.Protocol";
+
+message Request {
+    enum Type {
+        REGISTER = 0;
+        PLAY_A_CARD = 1;
+        DISCONNECT = 2;
+        HELP = 3;
+        CURRENT_CARD_PLAYED = 4;
+    }
+    Type type = 1;
+    repeated string command = 2;
+    string Username = 3;
+}
+
+message Card {
+    string color = 1;
+    string cardName = 2;
+}
+
+message HelpCommand {
+    string name = 1;
+    string description = 2;
+}
+
+message Response {
+    enum Type {
+        WIN = 0;
+        LOSE = 1;
+        REFRESH = 2;
+        RESET_GAME = 3;
+        SUCCESS = 4;
+        FAILED = 5;
+        SUCCESS_REGISTER = 6;
+        SERVER_SHUTDOWN = 7;
+        GAME_ALREADY_STARTED = 8;
+        DISCONNECT = 9;
+        USERNAME_ALREADY_TAKEN = 10;
+        GAME_ACTION  = 11;
+        HELP = 12;
+        CURRENT_CARD_PLAYED = 13;
+    }
+    Type type = 1;
+    string responseMsg = 2;
+    repeated HelpCommand help = 3;
+    repeated string current_card_played = 4;
+}

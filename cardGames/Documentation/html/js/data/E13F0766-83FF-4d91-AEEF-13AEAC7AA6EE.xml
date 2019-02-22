@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.2:1", "", "ClientInitializer", "EARoot/EA1/EA2/EA15.html", "3.png", "49", "0", "", "Logical diagram0","{7850AA02-4E71-4e17-9EAE-86967ED7C799}");
+tocTab[tocTab.length] = new Array("0.1.2:2", "", "ClientChannelInitializer", "EARoot/EA1/EA2/EA18.html", "5.png", "E132", "0", "", "Class0","{3A6CD5A9-B8AB-4264-A661-5D5E4E6C7A82}");

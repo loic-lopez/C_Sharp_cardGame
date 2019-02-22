@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Client", "EARoot/EA1/EA4.html", "3.png", "52", "0", "", "Logical diagram0","{5BB53721-A596-42a3-9EA6-0812A4C6EE23}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "Program", "EARoot/EA1/EA10.html", "5.png", "E139", "0", "", "Class0","{6173E2A0-9AA0-4452-A4B9-FA205342F389}");
+tocTab[tocTab.length] = new Array("0.1.1", "1", "ClientHandler", "EARoot/EA1/EA1/EA13.html", "4.png", "", "", "{04906107-0BC4-47be-97C4-CB2210CE001C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2", "1", "ClientInitializer", "EARoot/EA1/EA2/EA17.html", "4.png", "", "", "{E13F0766-83FF-4d91-AEEF-13AEAC7AA6EE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3", "1", "Library", "EARoot/EA1/EA3/EA21.html", "4.png", "", "", "{BBC3410F-EF41-425f-A6D1-DE9EEFDA5B6F}", "Package");

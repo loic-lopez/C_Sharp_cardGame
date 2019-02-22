@@ -1,0 +1,6 @@
+{
+    "0": { "Name": "help", "Description": "Display this help." },
+    "1": { "Name": "play", "Description": "Pick a card on the top of your deck and place it in the board." },
+    "2": { "Name": "board", "Description": "See the current played card." },
+    "3": { "Name": "disconnect", "Description": "Disconnect from the server." }
+}
