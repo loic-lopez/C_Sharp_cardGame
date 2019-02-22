@@ -2,7 +2,7 @@
 
 ## An EPITECH Project
 
-This project was done in order to create a textual card game, written in C# with DotNetty.
+This project was done in order to create a textual card game, written in C# with DotNetty and Google Protobuf.
 
 My job in this project was to build the server architecture and I created a card instantiator via his name,
 
